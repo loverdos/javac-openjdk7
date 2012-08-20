@@ -1,2 +1,6 @@
 out
 build
+.idea
+*.iml
+target
+npm-debug.log
