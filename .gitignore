@@ -4,3 +4,6 @@ build
 *.iml
 target
 npm-debug.log
+.classpath
+.settings/
+.project
